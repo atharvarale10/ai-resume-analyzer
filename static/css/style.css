@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f7fb;
+}
+
+.card {
+    max-width: 800px;
+    margin: auto;
+    border: none;
+    border-radius: 15px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.btn-primary {
+    border-radius: 8px;
+}
